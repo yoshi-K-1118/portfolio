@@ -75,30 +75,6 @@ const iosWorks: Work[] = [
     tag: "iOSアプリ",
     appStore: true,
   },
-  {
-    title: "Hairmi — 頭皮ケア記録",
-    description:
-      "頭皮の状態・抜け毛・使用ヘアケア製品を毎日記録。グラフでコンディション変化を追跡できる頭皮ケア管理アプリ。",
-    tag: "iOSアプリ",
-  },
-  {
-    title: "SubsManager",
-    description:
-      "サブスクリプションを一覧管理。月額・年額コストを可視化し、不要なサブスクを見直せる家計管理アプリ。",
-    tag: "iOSアプリ",
-  },
-  {
-    title: "PowerSpot",
-    description:
-      "位置情報で周辺店舗をリスト・地図で表示。フィルター検索とお気に入り登録機能付きの店舗検索アプリ。",
-    tag: "iOSアプリ",
-  },
-  {
-    title: "WeightTrack",
-    description:
-      "体重を毎日記録し、グラフ・履歴で推移を確認。目標体重設定と達成状況の可視化ができる体重管理アプリ。",
-    tag: "iOSアプリ",
-  },
 ];
 
 const services = [
