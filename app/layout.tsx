@@ -10,21 +10,21 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio | Webアプリ・iOSアプリ開発",
+  title: "AIチャットボット | クリニック・士業・EC向けRAG対応",
   description:
-    "Claude Codeで爆速開発。WebアプリからiOSアプリまで、個人開発で複数のプロダクトをリリースした実績のあるフリーランスエンジニアのポートフォリオです。",
+    "御院・御事務所の文書を学習したAIが、診療案内・料金・予約などの問い合わせに24時間自動回答。月額9,800円から。医療機関・士業・EC・社内ドキュメント対応。",
   openGraph: {
-    title: "Portfolio | Webアプリ・iOSアプリ開発",
+    title: "AIチャットボット | クリニック・士業・EC向けRAG対応",
     description:
-      "Claude Codeで爆速開発。WebアプリからiOSアプリまで、個人開発で複数のプロダクトをリリースした実績のあるフリーランスエンジニアのポートフォリオです。",
+      "御院・御事務所の文書を学習したAIが、診療案内・料金・予約などの問い合わせに24時間自動回答。月額9,800円から。",
     type: "website",
     locale: "ja_JP",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Portfolio | Webアプリ・iOSアプリ開発",
+    title: "AIチャットボット | クリニック・士業・EC向けRAG対応",
     description:
-      "Claude Codeで爆速開発。WebアプリからiOSアプリまで、個人開発で複数のプロダクトをリリースした実績のあるフリーランスエンジニアのポートフォリオです。",
+      "御院・御事務所の文書を学習したAIが、診療案内・料金・予約などの問い合わせに24時間自動回答。月額9,800円から。",
   },
 };
 
